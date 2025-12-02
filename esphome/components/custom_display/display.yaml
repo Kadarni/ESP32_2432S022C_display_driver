@@ -1,0 +1,4 @@
+name: "Custom Display"
+platfrom: custom_display
+type: display
+description: Custom 8-bit paralel display using LovyanGFX
