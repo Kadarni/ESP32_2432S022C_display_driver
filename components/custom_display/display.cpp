@@ -70,3 +70,4 @@ void CustomDisplay::draw_absolute_pixel_internal(int x, int y, Color color) {
 
 }  // namespace custom_display
 }  // namespace esphome
+ESPHOME_REGISTER_COMPONENT(CustomDisplay,display::DisplayBuffer);
